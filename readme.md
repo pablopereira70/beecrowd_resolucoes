@@ -21,7 +21,7 @@ Os problemas estão organizados em pastas que seguem as categorias oficiais da p
 
 Clique em uma categoria para ver a tabela de progresso e as soluções dos problemas:
 
-* 🟢 [Iniciante](./Iniciante/) - Conceitos básicos de entrada, saída e lógica condicional/repetição.
+* 🟢 [Iniciante](https://github.com/pablopereira70/beecrowd_resolucoes/tree/main/iniciante) - Conceitos básicos de entrada, saída e lógica condicional/repetição.
 
 
 Atualizado conforme novas categorias surgem.
@@ -32,7 +32,7 @@ Atualizado conforme novas categorias surgem.
 
 Você pode acompanhar meu progresso geral diretamente na plataforma através do meu perfil oficial:
 
-👉 [Link para o seu perfil no Beecrowd][https://judge.beecrowd.com/pt/profile/1245220]
+👉 [Link para o seu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1245220)
 
 ---
 
