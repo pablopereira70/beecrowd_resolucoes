@@ -32,7 +32,8 @@ Atualizado conforme novas categorias surgem.
 
 Você pode acompanhar meu progresso geral diretamente na plataforma através do meu perfil oficial:
 
-👉 [Link para o seu perfil no Beecrowd][https://judge.beecrowd.com/pt/profile/1245220]
+👉 [Link para o seu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1245220)
+
 
 ---
 
