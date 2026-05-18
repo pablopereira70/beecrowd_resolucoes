@@ -6,7 +6,7 @@ Repositório dedicado ao armazenamento das minhas resoluções de problemas na p
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagens:** Python 3.9 🐍
+* **Linguagens:** Python 3.13 🐍
 * **Editor:** VS Code
 
 ---
@@ -32,7 +32,7 @@ Atualizado conforme novas categorias surgem.
 
 Você pode acompanhar meu progresso geral diretamente na plataforma através do meu perfil oficial:
 
-👉 [Link para o seu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1245220)
+👉 [Link para o meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1245220)
 
 ---
 
