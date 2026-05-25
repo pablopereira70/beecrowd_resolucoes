@@ -16,6 +16,9 @@ Nesta pasta constam as resoluções dos problemas de nível inicial da plataform
 | 1005 | Média 1 | Python | [Ver código](./1005_Media_1.py) |
 | 1006 | Média 2 | Python | [Ver código](./1006_Media_2.py) |
 | 1007 | Diferença | Python | [Ver código](./1007_Diferenca.py) |
+| 1008 | Salário | Python | [Ver código](./1008_Salario.py) |
+| 1009 | Salário com Bônus | Python | [Ver código](./1009_Salario_com_Bonus.py) |
+| 1010 | Cálculo Simples | Python | [Ver código](./1010_Calculo_Simples.py) |
 
 
 Modificado à medida que novas soluções são validadas.
